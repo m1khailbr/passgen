@@ -1,4 +1,3 @@
-#passgen
 __EN__
 A simple password generator with multiple modes and with a choice of length.
 
